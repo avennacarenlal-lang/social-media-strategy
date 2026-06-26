@@ -42,3 +42,6 @@ This project is open-source and free to use for educational and professional pur
 
 ## Posting Cycle Diagram
 ![Social Media Posting Cycle](BCO.7c9c210e-0f7e-4974-8fee-7ac900462e4a.png)
+
+## Posting Cycle Diagram
+![Social Media Posting Cycle](posting-cycle.png)
