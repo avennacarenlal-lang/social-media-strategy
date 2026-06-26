@@ -39,3 +39,4 @@ If you’d like to improve or expand this calendar:
 
 ## License
 This project is open-source and free to use for educational and professional purposes.
+
