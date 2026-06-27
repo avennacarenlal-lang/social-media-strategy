@@ -22,8 +22,7 @@ It helps streamline posting schedules, track engagement, and maintain consistent
 
 ---
 
-## Posting Cycle Diagram
-![Social Media Posting Cycle](posting-cycle.png)
+![Social Media Posting Cycle](assets/posting-cycle.png)
 
 ---
 
