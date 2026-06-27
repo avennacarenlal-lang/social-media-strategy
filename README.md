@@ -22,6 +22,20 @@ It helps streamline posting schedules, track engagement, and maintain consistent
 
 ---
 
+## Posting Cycle Diagram
+![Social Media Posting Cycle](posting-cycle.png)
+
+---
+
+## Usage Example
+A clothing brand can use this calendar to plan:
+- Week 1: Educational posts on sustainable fabrics  
+- Week 2: Promotional posts highlighting new arrivals  
+- Week 3: Engagement posts with polls on favorite styles  
+- Week 4: Analytics review and adjustments
+
+---
+
 ## Example Content Types
 - 🎓 Educational posts (tips, insights, industry knowledge)  
 - 📢 Promotional posts (offers, product launches, events)  
@@ -39,14 +53,3 @@ If you’d like to improve or expand this calendar:
 
 ## License
 This project is open-source and free to use for educational and professional purposes.
-
-## Posting Cycle Diagram
-![Social Media Posting Cycle](posting-cycle.png)
-
-
-## Usage Example
-A clothing brand can use this calendar to plan:
-- Week 1: Educational posts on sustainable fabrics  
-- Week 2: Promotional posts highlighting new arrivals  
-- Week 3: Engagement posts with polls on favorite styles  
-- Week 4: Analytics review and adjustments
