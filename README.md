@@ -43,6 +43,7 @@ This project is open-source and free to use for educational and professional pur
 ## Posting Cycle Diagram
 ![Social Media Posting Cycle](posting-cycle.png)
 
+
 ## Usage Example
 A clothing brand can use this calendar to plan:
 - Week 1: Educational posts on sustainable fabrics  
